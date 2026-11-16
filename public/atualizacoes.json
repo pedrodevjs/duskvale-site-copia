@@ -1,0 +1,250 @@
+[
+  {
+    "id": "2026-11-15-mochila-pacote-lobby",
+    "titulo": "Texturas da mochila no Lobby e Survival",
+    "descricao": "O pacote de recursos de mochilas foi disponibilizado no Lobby e atualizado no Survival, incluindo suporte declarado ao Minecraft Java 26.3. A abertura da mochila permanece no Survival.",
+    "projeto": "Lobby e Survival",
+    "tipo": "ajuste",
+    "lancadoEm": "2026-11-15T13:22:17-03:00"
+  },
+  {
+    "id": "2026-11-15-npc-lojinha",
+    "titulo": "NPC da loja decorado",
+    "descricao": "O NPC Lojinha recebeu um nome decorado no Lobby e está configurado para aparecer a todos.",
+    "projeto": "Lobby",
+    "tipo": "ajuste",
+    "lancadoEm": "2026-11-15T13:17:29-03:00"
+  },
+  {
+    "id": "2026-11-15-loja-java-categorias",
+    "titulo": "Categorias na loja Java",
+    "descricao": "O menu Java da loja do Lobby agora apresenta categorias antes dos produtos.",
+    "projeto": "Lobby",
+    "tipo": "ajuste",
+    "lancadoEm": "2026-11-15T12:22:54-03:00"
+  },
+  {
+    "id": "2026-11-15-loja-java-bedrock-lista",
+    "titulo": "Loja Java e nova navegação no Bedrock",
+    "descricao": "A loja do Lobby ganhou um menu Java com seleção e confirmação por oferta. No Bedrock, os produtos são exibidos diretamente em páginas.",
+    "projeto": "Lobby",
+    "tipo": "novo",
+    "lancadoEm": "2026-11-15T11:22:36-03:00"
+  },
+  {
+    "id": "2026-11-15-icones-restantes-bedrock",
+    "titulo": "Ícones dos produtos da loja",
+    "descricao": "A loja Bedrock recebeu imagens para estandartes, bloco de luz e outros itens que estavam sem ícone.",
+    "projeto": "Lobby",
+    "tipo": "correcao",
+    "lancadoEm": "2026-11-15T10:29:58-03:00"
+  },
+  {
+    "id": "2026-11-15-icones-loja-bedrock",
+    "titulo": "Mais ícones na loja Bedrock",
+    "descricao": "Foram ajustados os ícones de 87 produtos da loja Bedrock, incluindo carne de porco cozida, ferramentas e outros itens.",
+    "projeto": "Lobby",
+    "tipo": "correcao",
+    "lancadoEm": "2026-11-15T10:24:08-03:00"
+  },
+  {
+    "id": "2026-11-15-loja-bedrock-lobby",
+    "titulo": "Loja Bedrock disponível no Lobby",
+    "descricao": "A loja do servidor chegou ao Lobby para jogadores Bedrock com categorias, compra em Pétalas e catálogo editável no painel. Os preços iniciais podem ser ajustados pela equipe.",
+    "projeto": "Lobby",
+    "tipo": "novo",
+    "lancadoEm": "2026-11-15T10:21:11-03:00"
+  },
+  {
+    "id": "2026-11-13-admin-equipe",
+    "titulo": "Atualização da equipe administrativa",
+    "descricao": "O jogador tripaseca883 foi adicionado ao grupo Admin no Lobby e no Survival.",
+    "projeto": "Lobby e Survival",
+    "tipo": "ajuste",
+    "lancadoEm": "2026-11-13T09:38:15-03:00"
+  },
+  {
+    "id": "2026-11-12-cores-tags-equipe",
+    "titulo": "Novas cores para as tags da equipe",
+    "descricao": "As tags Mod, Admin, Dev e Owner receberam as cores solicitadas no lobby e no survival. A tag Owner agora usa o tom definido em vez da animação arco-íris.",
+    "projeto": "Lobby e Survival",
+    "tipo": "ajuste",
+    "lancadoEm": "2026-11-12T14:52:50-03:00"
+  },
+  {
+    "id": "2026-11-12-sugestoes-comandos-permissoes",
+    "titulo": "Sugestões de comandos organizadas",
+    "descricao": "As sugestões do Lobby e do Survival foram ajustadas conforme as permissões de membros, VIPs e equipe. Comandos com prefixos de plugins deixaram de aparecer e os comandos de casas são atualizados quando as permissões mudam.",
+    "projeto": "Lobby e Survival",
+    "tipo": "correcao",
+    "lancadoEm": "2026-11-12T14:23:46-03:00"
+  },
+  {
+    "id": "2026-11-12-icones-coinflip-bedrock",
+    "titulo": "Ícones do Coinflip no Bedrock",
+    "descricao": "As duas texturas usadas pelo menu do Coinflip foram adicionadas ao pacote de recursos Bedrock; a exibição no jogo está em teste.",
+    "projeto": "Lobby",
+    "tipo": "ajuste",
+    "lancadoEm": "2026-11-12T13:51:40-03:00"
+  },
+  {
+    "id": "2026-11-12-cassino-bedrock-visual",
+    "titulo": "Adaptação visual do cassino para Bedrock em teste",
+    "descricao": "Foram adicionados modelos alternativos para as peças coloridas da roleta e recursos para algumas texturas dos jogos no Bedrock. A aparência e as interações continuam em teste.",
+    "projeto": "Lobby",
+    "tipo": "ajuste",
+    "lancadoEm": "2026-11-12T13:02:33-03:00"
+  },
+  {
+    "id": "2026-11-12-correcao-visual-cassino",
+    "titulo": "Correção visual do cassino",
+    "descricao": "A proteção do lobby foi ajustada para permitir os suportes que exibem os blocos das mesas do cassino, mantendo o bloqueio de criaturas e itens.",
+    "projeto": "Lobby",
+    "tipo": "correcao",
+    "lancadoEm": "2026-11-12T12:51:53-03:00"
+  },
+  {
+    "id": "2026-11-12-cassino-lobby",
+    "titulo": "Cassino em teste no lobby",
+    "descricao": "O NitroCasino foi instalado no lobby com jogos e um menu administrativo para escolher e posicionar as mesas. As interações no Bedrock e as apostas com Pétalas ainda estão em teste.",
+    "projeto": "Lobby",
+    "tipo": "novo",
+    "lancadoEm": "2026-11-12T11:43:13-03:00"
+  },
+  {
+    "id": "2026-11-12-probably-backpacks",
+    "titulo": "Novo teste de mochilas no Survival",
+    "descricao": "A mochila anterior foi substituída pelo Probably Backpacks no Survival, com recursos preparados para Java e Bedrock. A compatibilidade no Bedrock está em teste.",
+    "projeto": "Survival",
+    "tipo": "ajuste",
+    "lancadoEm": "2026-11-12T08:38:05-03:00"
+  },
+  {
+    "id": "2026-11-11-lobby-aberto",
+    "titulo": "Entrada aberta no lobby",
+    "descricao": "A lista de acesso do lobby foi desativada temporariamente para permitir a entrada de novos jogadores.",
+    "projeto": "Lobby",
+    "tipo": "ajuste",
+    "lancadoEm": "2026-11-11T23:15:56-03:00"
+  },
+  {
+    "id": "2026-11-11-acesso-owner",
+    "titulo": "Ajuste de cargo da equipe",
+    "descricao": "O cargo Owner foi atribuído a uma conta autorizada no lobby e no Survival.",
+    "projeto": "Lobby e Survival",
+    "tipo": "ajuste",
+    "lancadoEm": "2026-11-11T22:56:26-03:00"
+  },
+  {
+    "id": "2026-11-11-ajuste-acesso-lobby",
+    "titulo": "Ajuste de acesso ao lobby",
+    "descricao": "O acesso de uma conta autorizada foi restaurado na lista de entrada do lobby.",
+    "projeto": "Lobby",
+    "tipo": "correcao",
+    "lancadoEm": "2026-11-11T22:54:24-03:00"
+  },
+  {
+    "id": "2026-11-11-teste-mochilas",
+    "titulo": "Teste de mochilas no Survival",
+    "descricao": "O Survival recebeu o vzBackpack em fase de teste. Membros podem criar e usar mochilas; a colocação no chão está limitada à administração enquanto a proteção de terrenos é avaliada. O funcionamento e a aparência no Bedrock ainda estão em teste.",
+    "projeto": "Survival",
+    "tipo": "novo",
+    "lancadoEm": "2026-11-11T22:50:08-03:00"
+  },
+  {
+    "id": "2026-11-11-celebracao-petalas",
+    "titulo": "Celebração ao receber Pétalas",
+    "descricao": "Ao receber Pétalas por um comando administrativo, o jogador recebe uma mensagem na tela e uma celebração com fogos, inclusive ao voltar se estiver desconectado.",
+    "projeto": "Lobby e Survival",
+    "tipo": "novo",
+    "lancadoEm": "2026-11-11T22:36:58-03:00"
+  },
+  {
+    "id": "2026-11-11-tesouro-petalas",
+    "titulo": "Pétalas na caça ao tesouro",
+    "descricao": "O primeiro jogador que resgatar o tesouro recebe 100 Pétalas além dos itens aleatórios.",
+    "projeto": "Survival",
+    "tipo": "ajuste",
+    "lancadoEm": "2026-11-11T15:25:04-03:00"
+  },
+  {
+    "id": "2026-11-11-tag-admin-cor",
+    "titulo": "Correção da cor da tag Admin",
+    "descricao": "A cor vermelha do prefixo Admin foi limitada à tag, para não se estender ao nome do jogador no lobby e no Survival.",
+    "projeto": "Lobby e Survival",
+    "tipo": "correcao",
+    "lancadoEm": "2026-11-11T15:07:28-03:00"
+  },
+  {
+    "id": "2026-11-11-owner-arco-iris",
+    "titulo": "Tag Owner animada",
+    "descricao": "A tag Owner recebeu uma animação de arco-íris na lista de jogadores e acima do personagem, no lobby e no Survival.",
+    "projeto": "Lobby e Survival",
+    "tipo": "ajuste",
+    "lancadoEm": "2026-11-11T15:04:20-03:00"
+  },
+  {
+    "id": "2026-11-11-tags-equipe",
+    "titulo": "Novas tags para a equipe",
+    "descricao": "Os grupos Owner, Dev e Mod foram configurados junto ao Admin no lobby e no Survival. O Mod recebeu permissões de moderação e não pode administrar VIPs.",
+    "projeto": "Lobby e Survival",
+    "tipo": "novo",
+    "lancadoEm": "2026-11-11T14:57:09-03:00"
+  },
+  {
+    "id": "2026-11-11-sugestoes-vips",
+    "titulo": "Sugestões nos comandos de VIP",
+    "descricao": "Os comandos /setvip e /comprarvip agora sugerem os nomes dos planos; /renovacaoauto também sugere suas opções.",
+    "projeto": "Lobby e Survival",
+    "tipo": "correcao",
+    "lancadoEm": "2026-11-11T14:24:34-03:00"
+  },
+  {
+    "id": "2026-11-11-vips-survival",
+    "titulo": "VIPs ativados também no Survival",
+    "descricao": "O sistema de VIPs foi ativado no Survival e no lobby, com compras por Pétalas, renovação mensal e kits entregues em caixas de shulker.",
+    "projeto": "Lobby e Survival",
+    "tipo": "novo",
+    "lancadoEm": "2026-11-11T14:10:38-03:00"
+  },
+  {
+    "id": "2026-11-11-vips-lobby",
+    "titulo": "Sistema de VIPs iniciado no lobby",
+    "descricao": "O lobby recebeu os comandos de VIP, compra com Pétalas e kits em caixas de shulker. A ativação no Survival ainda está pendente.",
+    "projeto": "Lobby",
+    "tipo": "novo",
+    "lancadoEm": "2026-11-11T14:04:06-03:00"
+  },
+  {
+    "id": "2026-11-11-corrige-painel-petalas",
+    "titulo": "Correção dos números no painel do lobby",
+    "descricao": "Os campos de saldo e trocas foram corrigidos para voltar a exibir os valores e se restabelecer após recargas do TAB.",
+    "projeto": "Lobby",
+    "tipo": "correcao",
+    "lancadoEm": "2026-11-11T12:29:43-03:00"
+  },
+  {
+    "id": "2026-11-11-diretorio-lojas",
+    "titulo": "Diretório de lojas no Survival",
+    "descricao": "Jogadores podem cadastrar locais com /criarloja e visitar com /loja. Os limites de locais acompanham os grupos VIP; as placas de produtos continuam separadas no ChestShop.",
+    "projeto": "Survival",
+    "tipo": "novo",
+    "lancadoEm": "2026-11-11T11:58:55-03:00"
+  },
+  {
+    "id": "2026-11-11-vips-lojas",
+    "titulo": "Tags VIP e lojas no Survival",
+    "descricao": "Foram criados os grupos Booster, Broto, Sakura, Encantado e Estelar com tags e permissões de casas. O ChestShop foi instalado no Survival com criação, compra e venda autorizadas; kits mensais e limites de quantidade de lojas ainda estão em preparação.",
+    "projeto": "Lobby e Survival",
+    "tipo": "novo",
+    "lancadoEm": "2026-11-11T11:50:37-03:00"
+  },
+  {
+    "id": "2026-11-11-petalas",
+    "titulo": "Pétalas chegam ao DuskVale",
+    "descricao": "A moeda própria foi instalada no lobby e no Survival, com comandos de saldo, pagamentos, ranking e troca de itens. O painel lateral do lobby também foi configurado com informações do jogador.",
+    "projeto": "Lobby e Survival",
+    "tipo": "novo",
+    "lancadoEm": "2026-11-11T10:36:16-03:00"
+  }
+]
